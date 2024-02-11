@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-swiss"
   spec.version       = "1.0.0"
-  spec.authors       = ["broccolini"]
-  spec.email         = ["diana.mounter@gmail.com"]
+  spec.authors       = ["rhysdore"]
+  spec.email         = [""]
 
-  spec.summary       = %q{A bold typographic theme for Jekyll, inspired by Swiss design.}
+  spec.summary       = %q{Rhys Dore.}
   spec.homepage      = "http://broccolini.net/swiss"
   spec.license       = "MIT"
 
